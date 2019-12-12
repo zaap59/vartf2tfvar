@@ -7,7 +7,7 @@ Convert variable.tf to tfvars format.
 ## Install
 
 ```sh
-go get github.com/zaap59/vartf2tfvar
+go get github.com/zaap59/vartf2tfvar/vartf2tfvar
 ```
 
 ## Build
